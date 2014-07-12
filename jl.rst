@@ -19,7 +19,7 @@ this is a comment _underline_
    True   False
    =====  =====
 
-.. code:: Example 2
+.. code:: Example2
     
     object Invert {
       def main(args: Array[String]) {
