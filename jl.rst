@@ -2,9 +2,9 @@
 
 .. code:: scala
 
-import java.io.FileInputStream
-import org.pegdown.{Extensions, PegDownProcessor}
-import scala.io.Source
+   import java.io.FileInputStream
+   import org.pegdown.{Extensions, PegDownProcessor}
+   import scala.io.Source
 
 
 this is a comment _underline_
