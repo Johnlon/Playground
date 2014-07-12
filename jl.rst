@@ -18,6 +18,7 @@ this is a comment _underline_
    =====  =====
 
 .. code-block:: scala
+   :emphasize-lines: 3,5
 
    object Invert {
      def main(args: Array[String]) {
@@ -46,4 +47,3 @@ this is a comment _underline_
        println("\nHTML\n" + h)
      }
    }
-
