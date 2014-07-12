@@ -18,7 +18,7 @@ this is a comment _underline_
    =====  =====
 
 .. code-block:: scala
-   :emphasize-lines: 3,5
+   :linenos:
 
    object Invert {
      def main(args: Array[String]) {
