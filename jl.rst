@@ -4,6 +4,14 @@
    import java.io.FileInputStream
    import org.pegdown.{Extensions, PegDownProcessor}
    import scala.io.Source
+   
+    object Invert {
+      def main(args: Array[String]) {
+        val ScalaStart =  System.lineSeparator() + "`" + "``" + System.lineSeparator() + System.lineSeparator()
+        val ScalaEnd =  System.lineSeparator() + "`" + "``" + System.lineSeparator()+ System.lineSeparator()
+    
+      }
+   }
 
 
 this is a comment _underline_
