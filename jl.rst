@@ -1,4 +1,4 @@
-.. highlight:: java
+.. highlight:: c
 .. code:: scala
 
    import java.io.FileInputStream
