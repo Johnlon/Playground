@@ -1,5 +1,5 @@
 .. highlight:: c
-.. code:: scala
+.. code-block:: scala
 
    import java.io.FileInputStream
    import org.pegdown.{Extensions, PegDownProcessor}
@@ -26,7 +26,7 @@ this is a comment _underline_
    True   False
    =====  =====
 
-.. code:: Example2
+.. code-block:: scala
     
     object Invert {
       def main(args: Array[String]) {
